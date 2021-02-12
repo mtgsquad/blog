@@ -1,9 +1,9 @@
 ---
-title: Colophon
+title: MTGSquad
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
-comments: false
+excerpt: Hallo.
+comments: true
 ---
 
 A Pakistani Student, Developer And Food Lover. Goes To Foundation Public School, Currently In 7th Grade, Busy As Always. Check Out My Hosting Company @ https://zodiacdevelopment.net/
